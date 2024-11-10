@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmarMuthanna
-- 👀 I’m interested in Software Engineer 
-- 🌱 I’m currently learning Web/App Dev
+- 👀 I’m interested in Web/App Dev 
+- 🌱 I’m currently learning Software Engineering
 
 <!---
 OmarMuthanna/OmarMuthanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
